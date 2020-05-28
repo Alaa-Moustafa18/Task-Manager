@@ -35,7 +35,7 @@ const TaskForm = ({task}) => {
             <div className="buttons">
                  <button type="submit" className="btn add-task-btn"> { state.currentTask === null ? "Add Task" : "Update Task"}</button>                  
                 
-                <button type="button" className="btn clear-btn" onClick={clear}>
+                <button type="button" className="btn clear-btn" onClick={clear} disabled= { state.tasks.length ?  false :  true}  >
                     Clear
                 </button>
             </div>

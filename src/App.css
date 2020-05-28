@@ -155,7 +155,10 @@
   outline: none;
   cursor: pointer;
 }
-
+.clear-btn:disabled{
+  opacity: 0.8;
+  cursor: not-allowed;
+}
 .no-tasks {
   color: #777;
   text-align: center;
