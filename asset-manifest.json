@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Alaa-Moustafa18/Task-Manager/static/css/main.2b9ab736.chunk.css",
+    "main.js": "/Alaa-Moustafa18/Task-Manager/static/js/main.d4f07cf7.chunk.js",
+    "main.js.map": "/Alaa-Moustafa18/Task-Manager/static/js/main.d4f07cf7.chunk.js.map",
+    "runtime-main.js": "/Alaa-Moustafa18/Task-Manager/static/js/runtime-main.1983bbe1.js",
+    "runtime-main.js.map": "/Alaa-Moustafa18/Task-Manager/static/js/runtime-main.1983bbe1.js.map",
+    "static/js/2.b44859b4.chunk.js": "/Alaa-Moustafa18/Task-Manager/static/js/2.b44859b4.chunk.js",
+    "static/js/2.b44859b4.chunk.js.map": "/Alaa-Moustafa18/Task-Manager/static/js/2.b44859b4.chunk.js.map",
+    "index.html": "/Alaa-Moustafa18/Task-Manager/index.html",
+    "precache-manifest.99bc5d7974f26f6ebcc04d7ed1db0d6a.js": "/Alaa-Moustafa18/Task-Manager/precache-manifest.99bc5d7974f26f6ebcc04d7ed1db0d6a.js",
+    "service-worker.js": "/Alaa-Moustafa18/Task-Manager/service-worker.js",
+    "static/css/main.2b9ab736.chunk.css.map": "/Alaa-Moustafa18/Task-Manager/static/css/main.2b9ab736.chunk.css.map",
+    "static/js/2.b44859b4.chunk.js.LICENSE.txt": "/Alaa-Moustafa18/Task-Manager/static/js/2.b44859b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1983bbe1.js",
+    "static/js/2.b44859b4.chunk.js",
+    "static/css/main.2b9ab736.chunk.css",
+    "static/js/main.d4f07cf7.chunk.js"
+  ]
+}
